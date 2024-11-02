@@ -8,7 +8,7 @@ sudo apt-get install docker-compose unzip -y
 
 Download do repositório
 ```
-wget https://github.com/HudsonPessoa/DSW2/devweb2-main/archive/refs/heads/main.zip
+wget https://github.com/HudsonPessoa/DSW2/archive/refs/heads/main.zip
 ```
 
 Descompactar repositório
