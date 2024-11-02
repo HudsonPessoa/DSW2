@@ -18,6 +18,6 @@ unzip main.zip
 Acessar pasta do repositório
 
 ```
-cd devweb2-main/arquitetura/microsservicos
+cd DSW2/devweb2-main/arquitetura/microsservicos
 ```
 
